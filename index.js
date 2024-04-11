@@ -36,7 +36,7 @@ for (let i = 0; i < hacker1.length; i++) {
 }
 console.log(newDriverName);
 
-let newDriverName2 = hacker1.toUpperCase().split("").join("  ")
+let newDriverName2 = hacker1.toUpperCase().split("").join(" ")
 console.log(newDriverName2);
 
 let newNavigator = "";
